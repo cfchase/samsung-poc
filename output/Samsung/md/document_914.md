@@ -1,0 +1,9 @@
+SAMSUNG SDS implemented its own materiality assessment process in consideration of the major business and operational characteristics to derive important reporting issues related to sustainability. SAMSUNG SDS conducted benchmarking and media analysis of similar companies and institutions at home and abroad, identified financial impact and social/environmental impact, and determined key issues for the reporting year. SAMSUNG SDS derived 10 material issues through the relevant process, and disclosed GRI topic standards disclosures related to material issues in the Report.
+
+## **Responsiveness: Responding to material sustainability topics and related impacts**
+
+SAMSUNG SDS operated a management process for material issues in the context of sustainability derived from the materiality assessment. The SAMSUNG SDS established mid- to long-term sustainability plans and goals in according to the management methodology established to effectively reflect the expectations of key stakeholders. SAMSUNG SDS disclosed the process including policy, indicator, activity and response performance on material issues in the Report.
+
+Impact: Impact of an organization's activities and material sustainability topics on the organization and stakeholders SAMSUNG SDS identified the scope and extent of the impacts to the organization and key stakeholders in the context of the sustainability of the material issues reported. SAMSUNG SDS established sustainability strategies and objectives based on the analysis results of major impacts, including risks and opportunities for key issues, disclosed mid- to long-term plans and strategic system in the Report.
+
+## **Findings and conclusions concerning the reliability and quality of specified performance information**

@@ -1,0 +1,11 @@
+In Q2, logistics business revenue was KRW 1.78 trillion, a 5.3% increase from the previous quarter. By logistics segment, ocean transport revenue increased in Q2 compared to last quarter due to the early peak season caused by major country tariff policies and the Red Sea issue as well as rising freight rate. However, air transport revenue decreased in Q2 due to the completion of new product transportation for major customers in Q1. Inland transport and warehouse logistics revenue increased compared to the previous quarter due to increased cargo volume in North America.
+
+Cello Square revenue in Q2 was KRW 285 billion, a 12% increase from the previous quarter. Overseas revenue is expanding in regions such as China, North America, and Europe as well. The number of registered customers increased by 2,000 from the previous quarter to 14,800, and the cumulative number of shipment customers also increased by 15%.
+
+We continuously improve competitiveness of customer services and operational productivity using generative AI. To minimize the impact of global supply chain risks on customers' global operations, we collect 60,000 news items daily and analyze their relevance to logistics so that we can detect logistics-related risks at an early stage and establish response plans. We analyze importance and estimate cargo volume using generative AI to minimize the impact on customers' businesses.
+
+Next, I will discuss the market outlook and business strategy for the second half.
+
+Ocean freight rates have been surging due to increased external uncertainties such as tight capacity on major routes, ongoing conflicts, tariff policy changes, and strikes. These conditions are anticipated to persist in the second half. Congestion at major Asian ports like Shanghai and Singapore also contributes to increasing operational risks.
+
+Air transport rates are expected to remain strong in the second half due to increased ecommerce cargo from China and continued demand shifts from ocean caused by the Red Sea situation. Despite the high external uncertainty, SDS will proactively secure stable capacity and competitive rate through long-term partnerships with shipping and airline companies to minimize customers' logistics burden.

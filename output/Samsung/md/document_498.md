@@ -1,0 +1,13 @@
+|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| Guideline                               | Details                                                                                                                                           |
+| Information Security Policy  Management | Defines composition and operational standards for information security policies                                                                   |
+| Information Security Organizations      | Defines composition and roles of organizations and officers in charge of information  security activities in each area                            |
+| Protection of Information Assets        | Defines classification criteria for information assets, and management standards for  access, storage, distribution, and disposal by asset type   |
+| Facility Security                       | Defines physical security standards such as for the business site facilities and access,  and carrying items in and out of company premises, etc. |
+| Information System Security             | Defines security management criteria for developing and operating information systems                                                             |
+| Security Incident Response              | Defines criteria and response system regarding security incidents                                                                                 |
+| Business Continuity Management          | Defines the management standards to guarantee continuity of key services                                                                          |
+| Legal Compliance                        | Defines laws and regulations related to information security                                                                                      |
+| Security Education                      | Defines activities to raise information security awareness in employees and suppliers                                                             |
+| Employee Security Compliance            | Defines the duties and responsibilities of information security that employees must comply with                                                   |
+| Discipline                              | Defines standards and system for disciplinary measures in case of employee violations                                                             |

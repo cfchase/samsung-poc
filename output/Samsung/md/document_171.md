@@ -1,0 +1,15 @@
+|--------------------------------|-------|----------------|----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| Category                       | Code  |                | Disclosure Requirement                                                                                               | Page                                              |
+| Basis for preparation          |       | BP - 1         | General basis for preparation of the sustainability statements                                                       | 2                                                 |
+|                                |       | BP - 2 GOV - 1 | Disclosures in relation to specific circumstances The role of the administrative, management, and supervisory bodies | 2, 39, 50, 52, 89, 123, 129, 133, 136 17, 100-104 |
+| Governance                     |       | GOV - 2        | Reporting and overseeing sustainability issues                                                                       | 17, 100-102, 104                                  |
+| Governance                     |       | GOV - 3        | Sustainability performance incentives                                                                                | 103                                               |
+|                                |       | SBM - 1        | Strategy, business model, and value chain                                                                            | 7-9, 21-23, 127, 33, 137                          |
+| Strategy and Business  Model   | ESRS2 | SBM - 2        | Interests and views of stakeholders                                                                                  | 31, 17                                            |
+|                                |       | SBM - 3        | Material impacts, risks and opportunities, and their interaction with strategy and business model                    | 32, 21-23                                         |
+| Impact, Risk,  and Opportunity |       | IRO - 1        | Identify and assess material impacts, risks, and opportunities                                                       | 32, 100-102                                       |
+| Impact, Risk,  and Opportunity |       | MDR - P        | Policies adopted to manage material sustainability matters                                                           | 32, 36-121                                        |
+| Management                     |       | MDR - A        | Actions in relation to material sustainability matters                                                               | 32, 36-121                                        |
+| Metrics and Targets            |       | MDR - M        | Metrics in relation to material sustainability matters                                                               | 32, 123-136                                       |
+
+## **Topical Ddisclosures**

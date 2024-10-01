@@ -1,0 +1,21 @@
+|------------------------|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------|---------------|
+| Category               | 2023 Key Reduction Activities                                                    | Unit                                                                          | GHG Reduction |
+|                        | Controlled the number of thermo-hygrostats through temperature- humidity sensors | tCO$_{2}$eq                                                                   | 14            |
+|                        | Replaced high-efficiency PACs in electrical substation rooms                     | tCO$_{2}$eq                                                                   | 13            |
+|                        | Installed solar power generation facilities                                      | tCO$_{2}$eq                                                                   | 28            |
+| Suwon                  | Replaced with open-type high-efficiency cooling towers                           | tCO$_{2}$eq                                                                   | 952           |
+| Data Center            | Replaced with variable-type, high-efficiency temperature and  humidity chambers  | tCO$_{2}$eq                                                                   | 1,494         |
+|                        | Adopted high-efficiency UPS                                                      | tCO$_{2}$eq                                                                   | 565           |
+|                        | Replaced main transformer                                                        | tCO$_{2}$eq                                                                   | 304           |
+|                        | Subtotal                                                                         | tCO$_{2}$eq                                                                   | 3,370         |
+| Sangam  Data Center    | Operated pump inverters                                                          | tCO$_{2}$eq                                                                   | 303           |
+| Sangam  Data Center    | Subtotal                                                                         | tCO$_{2}$eq                                                                   | 303           |
+|                        | Extended period of direct free cooling                                           | tCO$_{2}$eq                                                                   | 432           |
+|                        | Installed outdoor chiller awning screens                                         | tCO$_{2}$eq                                                                   | 118           |
+| Chuncheon  Data Center | Sprayed water on outdoor chiller condenser coils                                 | tCO$_{2}$eq                                                                   | 58            |
+|                        | Sprayed water on temperature and humidity chamber condenser coils tCO$_{2}$eq    | Sprayed water on temperature and humidity chamber condenser coils tCO$_{2}$eq | 5             |
+|                        | Subtotal                                                                         | tCO$_{2}$eq                                                                   | 613           |
+| Dongtan  Data Center   | Optimized control of free cooling and chiller                                    | tCO$_{2}$eq                                                                   | 1,015         |
+| Dongtan  Data Center   | Generated solar power                                                            | tCO$_{2}$eq                                                                   | 183           |
+| Dongtan  Data Center   | Subtotal                                                                         | tCO$_{2}$eq                                                                   | 1,198         |
+| Total                  | -                                                                                | tCO$_{2}$eq                                                                   | 5,484         |

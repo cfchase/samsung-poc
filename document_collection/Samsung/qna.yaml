@@ -1,0 +1,445 @@
+---
+version: 3
+domain: sustainability
+created_by: mairin
+seed_examples:
+
+  - context: |
+      ## ABOUT THIS REPORT
+
+      Samsung SDS published the 2024 Sustainability Report to transparently
+      disclose the economic, social, and environmental values and outcomes
+      generated through its business activities to various stakeholders. This
+      Sustainability Report shall serve as a communication channel to share
+      Samsung SDS' sustainability management activities, outcomes, and future
+      plans with stakeholders, each year.
+
+      ## Reporting Standards
+
+      This report has been prepared in accordance with the Global Reporting
+      Initiative (GRI) Standards Core Options, the UN Sustainable Development
+      Goals (SDGs), and the Sustainability Accounting Standards Board (SASB)
+      with some areas incorporating the sustainability disclosure standards of
+      the International Financial Reporting Standards (IFRS) and European
+      Sustainability Reporting Standards (ESRS).
+
+      ## Reporting Scope
+
+      This report covers Samsung SDS headquarters, all domestic and overseas
+      business sites, and controlled entities and subsidiaries subject to
+      consolidated accounting. Financial performance data is based upon
+      consolidated K-IFRS accounting standards. Any data requiring additional
+      attention in terms of reporting scope and boundary has been annotated
+      separately.
+
+      · Headquarters(HQ): All of Samsung SDS' domestic business sites
+
+      · Global: Headquarters, overseas subsidiaries, and key controlled
+      entities and subsidiaries subject to consolidated accounting
+
+      ## Reporting Period
+
+      This report covers the ESG performance and activities from January 1,
+      2023, to December 31, 2023, and includes some information extending
+      until the first half of 2024. In addition, quantitative performance
+      includes data from the latest three years to illustrate annual trend. If
+      historical data had been modified due to a change in the calculation
+      criteria or data error, a separate annotation has been made.
+
+      ## Reporting Cycle
+
+      Annual (previous edition published in June 2023)
+
+    questions_and_answers:
+
+      - question: |
+          What time period does the Samsung SDS 2024 Sustainability
+          Report apply to?
+        answer: |
+          The Samsung SDS 2024 Sustainability Report primarily covers
+          ESG performance and activities from January 1, 2024 to December 31,
+          2023. It also contains some information through the first half of
+          2024. It also includes data from the most recent 3 years for the
+          purposes of explaining trends.
+
+      - question: |
+
+          Why does Samsung SDS publish sustainability reports?
+
+        answer: |
+
+          Samsung SDS publishes sustainability reports in order to be
+          transparent about how its business activites generate economic,
+          social, and environmental values and outcomes.
+
+      - question: |
+
+          What parts of the Samsung SDS does this report apply to?
+
+        answer: |
+
+          The 2024 Samsung SDS Sustainability Report applies to all Samsung SDS
+          domestic and overseas business sites. It applies to Samsung SDS
+          headquarters, overseas subsidiaries, and key controlled entitites and
+          subsidiaries that are subject to consolidated accounting.
+
+  - context: |
+      ## Message from the CEO
+
+      Samsung SDS is dedicated to the sustainable growth of various stakeholders
+      by embedding ESG values in the company's business and management
+      activities.
+
+      ## Greetings! I am Sungwoo Hwang, President and CEO of Samsung SDS.
+
+      It is a great pleasure to extend my warmest appreciation for your
+      continuous affection and encouragement toward Samsung SDS as we present
+      you with the 5th Samsung SDS Sustainability Report. Samsung SDS has made
+      endeavors to transform its fundamental business model by focusing on the
+      cloud and digital logistics businesses during the past three years. As a
+      result, our cloud business saw revenues grow 62% in 2023 compared to the
+      previous year with its revenue share in IT Services also increasing from
+      19% in 2022 to 31% in 2023. Our digital logistics business also expanded
+      its service offerings steadily through Cello Square, increasing coverage
+      to 13 countries and recording 129% year-on-year growth. Moreover, 2023 was
+      the first year for all Samsung SDS services and solutions to be armored
+      with generative AI.
+
+      Amid such changes, Samsung SDS is practicing a strategy to embed ESG
+      values in the business under the vision 'IT's the Key to Sustainable
+      Growth' to ensure all of the company's business activities contribute to
+      the sustainable growth of our customers and stakeholders.
+
+      Taking into account that climate change is an urgent issue threatening the
+      sustainability of our society, we are upgrading management of carbon
+      emissions generated from our products and services. We built a real-time
+      monitoring system to offer customers visibility on the carbon emissions
+      related to our cloud and logistics services and are pursuing investments
+      in high-efficiency equipment and adoption of new technologies such as
+      immersion cooling to realize energy efficiency innovations at datacenters.
+      We also plan to actively assist our customers in addressing ESG matters by
+      leveraging IT technology to discover emissionreducing factors and securing
+      supply chain ESG management functions.
+
+      Moreover, we are devoted to protecting the data and information of
+      everyone related to the company including our customers. With generative
+      AI triggering unprecedented change across society, there is growing need
+      for ethical principles and guidelines to be applied our AI-based services.
+      Therefore, we plan to establish a digital governance system that includes
+      policies and technical solutions for offering responsible and fair IT
+      services that embrace AI ethics and privacy protection.
+
+      The ESG paradigm in business is now going beyond the establishment of
+      systems and plans to actual practice and performance creation.
+      Transparency in ESG data is becoming increasingly important as regulations
+      on mandatory ESG reporting are announced around the world including in
+      Korea, the U.S., and Europe. Samsung SDS will concentrate on practical
+      efforts to bring about substantial results and manage information
+      systematically through an ESG data platform to provide information
+      transparently to our stakeholders.
+
+      We look forward to your ongoing interest and support towards our journey
+      towards a sustainable future.
+
+      Thank you.
+
+      Sungwoo Hwang
+
+      President & CEO of Samsung SDS
+
+    questions_and_answers:
+
+      - question: |
+          How is Samsung SDS addressing the urgency and threat of
+          climate change?
+        answer: |
+          Samsung SDS is improving how they manage the carbon emission
+          footprint of their products and services. They build a real-time
+          monitoring system to provide visibility on carbon emissions related
+          to Samsung SDS cloud and logistics services. Samsung SDS is also
+          pursuing energy efficiency at their data centers with investments in
+          high- efficiency equipment and energy-efficient technologies such as
+          immersion cooling. Samsung SDS is also making plans to provide ESG
+          progress via the discovery of emission-reducing factors and supply
+          chain ESG management through IT technology.
+      - question: |
+          How does generate AI impact Samsung SDS's approach to ESG?
+        answer: |
+          Generative AI is impacting society, requiring ethical
+          considerations be applied to AI-based services. Samsung SDS committed
+          to the protection of data and information connected to customers and
+          everyone associated with the company. They are looking to create a
+          digital governance system that accounts for AI ethics and privacy
+          protection.
+      - question: |
+          How many Samsung SDS Sustainability Reports have been made?
+        answer: |
+          This report is the fifth Samsung SDS Sustainability report created.
+
+  - context: |
+
+      ## Sustainability Management Strategy
+
+      ## ENVIRONMENTAL
+
+      ## Key Performance
+
+      10% energy efficiency improvement Adoption of high-efficiency equipment
+      at Suwon DC
+
+      Amid the rapidly evolving business environment, Samsung SDS has built and
+      executed a sustainability management strategy to secure sustainable
+      growth drivers and continuously create substantial ESG results. In
+      particular, as environmental issues such as climate change emerge as a
+      pending threat to human survival, companies are faced with demands from
+      stakeholders to present specific carbon reduction measures and transition
+      to an eco-friendly business model.
+
+      Building on technology capabilities and the nature of its business,
+      Samsung SDS has set 'providing eco-friendly values' as the strategic
+      direction in the environmental area to address climate change and support
+      clients in taking climate actions. In line with this direction, we have
+      identified leveraging technology to curb carbon emissions, providing
+      eco-friendly products and services, and implementing an ESG value
+      delivery system as our environmental strategic initiatives.
+
+      ## Leverage Technology to Curb Carbon Emissions
+
+      Based on technical knowhow, Samsung SDS is working hard to continuously
+      lower carbon emissions. We are making efforts especially at our data
+      centers to achieve low-power, high-efficiency operations by discovering
+      and applying new technologies.
+
+      ## Performance and Next Steps
+
+      As part of our carbon mitigation efforts, we replaced outdated equipment
+      at the Suwon DC in 2023. We introduced high-efficiency UPS equipment
+      which improved energy efficiency by more than 10% (85.4 → 95.9%) and cut
+      energy usage by adopting inverters for engine power equipment.
+
+      ## Minimize UPS
+
+      Installing UPS to power supply on one side can minimize power loss during
+      blackouts an allow switching between power supplies
+
+      In addition, simulations were made on cooling methods to compare power
+      usage effectiveness (PUE), and on the immersion cooling system to test
+      its performance and build a database.
+
+      Immersion cooling proof of concept (PoC) was carried out for its
+      introduction to data centers in 2024 which is expected to serve as the
+      basis for us developing technology requirements and operation standards.
+
+      Beginning in 2026, we will conduct phased implementation of the system,
+      using immersion cooling to significantly lower power consumption and
+      mitigate carbon emissions by an annual 1,298 tCO$_{2}$eq/MW. Moreover, we
+      expect to save KRW 400 million/MW in annual operating costs compared to
+      conventional cooling.
+
+      Continuing to expand adoption of new technologies for low-power and
+      high-efficiency data center operations, we will deliver ESG values to
+      customers through an eco-cloud in the long-term.
+
+      ## Immersive Liquid Cooling
+
+      A next-generation cooling solution to efficiently cool heated IT
+      equipment where IT equipment are immersed in a special electrically non-
+      conductive fluid to cool down without requiring an additional cooling
+      device
+    questions_and_answers:
+      - question: |
+          How much energy efficient improvement was realized at the Suwon DC,
+          and how?
+        answer: |
+          In 2023, outdated equipment was replaced with high-efficiency
+          equipment at the Suwon DC. This lead to more than 10% energy
+          efficient improvement - efficiency went from 85.4% to 95.9%. Energy
+          usage was lowered by adopting inverters for engine power equipment.
+      - question: |
+          What is Samsung SDS doing with immersion cooling?
+        answer: |
+          An immersion cooling proof of concept was created for
+          introduction into Samsung SDS datacenters in 2024. Samsung SDS will
+          conduct phased implementation of the system starting in 2026. It is
+          expected that KRW 400 million/MW will be saved in annual operating
+          costs compared to conventional cooling. Carbon emissions should be
+          lowered by 1,298 tCO2 eq/MW.
+      - question: |
+          What is immersive liquid cooling?
+        answer: |
+          Immersive liquid cooling is a next-generation cooling solution that
+          is more efficient than conventional cooling system. This solution
+          involves immersing IT equipment in electrically non-conductive fluid
+          that cools the equipment down without the usage of additional cooling
+          devices.
+
+  - context: |
+      ENVIRONMENTAL SOCIAL GOVERNANCE
+
+      ## Incentive Programs
+
+      Based on the results of ESG inspections of suppliers, Samsung SDS
+      supports incentive programs for suppliers demonstrating excellent ESG
+      management. These incentives motivate participation in ESG practices and
+      raise aware-ness about the necessity for ESG. In 2023, a total 8
+      suppliers were recognized as Excellent ESG Suppliers, receiving practical
+      incentives for a sustainable future such as exemptions from on-site
+      inspections in the following year, support for suppliers' education
+      expenses, and financial support through the Win-Win Management Fund.
+
+      ## Supply Chain ESG Management
+
+      | Category                                      | Category
+      | Unit      |   2021 |   2022 |   2023 |
+
+      |-----------------------------------------------|-----------------------
+      ------------------------|-----------|--------|--------|--------|
+
+      | Number of suppliers subject to ESG management | Number of suppliers
+      subject to ESG management | Companies |    156 |    305 |    310 |
+
+      | Supplier  Code of Conduct                     | Suppliers who signed
+      to compliance            | %         |    100 |     96 |     93 |
+
+      | Supplier  Code of Conduct                     | New suppliers who
+      signed to compliance        | %         |    100 |     94 |     93 |
+
+      | ESG assessment                                | Suppliers assessed
+      | %         |    100 |     87 |     92 |
+
+      | ESG assessment                                | New suppliers that
+      received ESG assessment    | %         |    100 |     68 |     93 |
+
+      | Ratio of contracts with ESG applied           | Ratio of contracts
+      with ESG applied           | %         |    100 |    100 |    100 |
+
+      | Supply chain  work environment  management    | Suppliers with on-site
+      inspections            | Companies |     47 |     66 |     75 |
+
+      | Supply chain  work environment  management    | Suppliers with third-
+      party assurance          | Companies |      0 |     14 |     20 |
+
+    questions_and_answers:
+
+      - question: |
+          How well are Samsung SDS suppliers doing in terms of ESG
+          management? Are they doing a good job?
+        answer: |
+          Eight Samsung SDS suppliers were recognized as Excellent ESG
+          Suppliers in 2023. This is an honor earned after results of ESG
+          inspections, including on-site inspections.
+      - question: |
+          How many suppliers were subject to ESG management in 2023 compared
+          to 2021?
+        answer: |
+          In 2021, 156 companies were suppliers subject to ESG management. In
+          comparison, that number grew to 310 companies in 2024.
+      - question: |
+          How many suppliers had on-site inspections in 2021, 2022, and 2023?
+          Has the number of suppliers with on-site inspections grown?
+        answer: |
+          The number of suppliers with on-site inspections has grown. In 2021,
+          there were 47 companies with on-site inspections. That number grew to
+          66 in 2022 and 75 in 2023.
+
+  - context: |
+      ## Digital Responsibility
+
+      ## AI Ethics
+
+      ## AI Council
+
+      With the appearance of new business models combined with AI, we are
+      operating a regular council where the CEO and relevant departments
+      participate to review issues in research and development and respond to
+      AI business risks involving security, copyrights, and personal
+      information protection based on an understanding of the overall AI
+      business.
+
+      ## Insight Report: Artificial Intelligence
+
+      We issue reports to give key stakeholders of the company, including our
+      customers and employees, insight on artificial intelligence. The report
+      covers not only the current state of AI technology and generative AI, but
+      also details on the reliability and fairness of AI technology and AI
+      governance.
+
+      Go to report
+
+      Insight Report: Artificial Intelligence
+
+      ENVIRONMENTAL
+
+      SOCIAL
+
+      GOVERNANCE
+
+      ## Samsung SDS 『ChatGPT Technology Analysis White Paper (2023)』
+
+      Samsung SDS continues to carry out activities to be transparent in
+      disclosing and informing the public about technology. We published a
+      white paper that explains the principles behind key technology services
+      to make it easy for users to understand.
+
+      One of the hot topics of 2023 was ChatGPT. We issued a white paper on
+      ChatGPT that can be used by all audiences from C-level executives
+      starting to show interest in large language models to planners, IT
+      managers, and marketers in the working-level, trying to understand
+      overall technology trends and operating principles, to promote the new
+      technology and help employees in using it.
+
+      Go to Technology Analysis Whitepaper
+
+      ChatGPT Technology Analysis White Paper (2023)
+
+      96
+
+      ## Digital Responsibility
+
+      ## Open Source Policy
+
+      Based on the core values of sharing and collaboration, Samsung SDS is
+      pursuing various activities to promote shared growth of the open source
+      community and developers. We are also implementing open source policies
+      in order to guarantee the appropriate usage of open source software and
+      autonomous compliance. This enables compliance with open source license
+      obligations and prevents legal risks and violation of exclusive rights
+      that may arise from indiscreet usage or distribution to contribute to
+      value creation by utilizing open source.
+    questions_and_answers:
+      - question: |
+          Tell me one way that Samsung SDS demonstrates AI Ethics?
+        answer: |
+          Samsung SDS has a council including the CEO and relevant departments
+          that reviews research and development issues and responds to
+          security, copyright, personal information protection risks of AI to
+          business.
+      - question: |
+          How does Samsung SDS help people understand AI fairness?
+        answer: |
+          Samsung SDS issues insight reports on artificial intelligence to key
+          stakeholders of the company, including customers and employees.  The
+          report covers the state of AI technology and generative AI as well as
+          topics about the reliability and fairness of AI technology and AI
+          governance.
+      - question: |
+          Does Samsung SDS feel responsibility to inform the general public
+          about AI technology?
+        answer: |
+          Samsung SDS regularly carries out activities in the service of
+          transparency and disclosure about technology, with a goal to inform
+          the public. Samsung SDS publishes whitepapers about technology for
+          the public, including a white paper on ChatGPT to help all audiences
+          understand this new technology trend and understand how to use it.
+document_outline: |
+  Samsung SDS published the 2024 Sustainability Report to transparently
+  disclose the economic, social, and environmental values and outcomes
+  generated through its business activities to various stakeholders. This
+  Sustainability Report shall serve as a communication channel to share Samsung
+  SDS' sustainability management activities, outcomes, and future plans with
+  stakeholders, each year.
+document:
+  repo:
+  commit:
+  patterns:
+    - Samsung_SDS_Sustainability_Report_2024.md

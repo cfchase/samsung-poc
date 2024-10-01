@@ -1,0 +1,11 @@
+Samsung SDS' Board of Directors (BOD) is composed and operated in line with applicable laws and the Articles of Incorporation, ensuring transparent and independent governance. At the 39th General Shareholders' Meeting in March 2024, one independent director and two executive directors were appointed, following recommendations from the Independent Director Recommendation Committee and BOD with the appointment process for each director conducted in accordance with relevant laws. In order to enhance efficiency in BOD operations and decision-makings, President Sungwoo Hwang was reappointed as CEO and BOD Chair through Board resolution in accordance with Article 33 of the Articles of Incorporation and Article 5 of the BOD Regulations. In addition, efforts have been made continuously to strengthen accountable management led by the Board such as introducing the senior independent director system in October 2023. Currently, the BOD is composed of 3 executive directors and 4 independent directors which is pursuant to Article 542-8 of the Commercial Act that stipulates that there should be 3 or more outside directors with the number of outside directors making up the majority of directors.
+
+## **Senior Independent Director**
+
+The senior(lead) independent director system, mandated at financial firms such as banks, provides checks and balances by appointing a senior independent director to represent independent directors at boards where the CEO or executive director is chair. Samsung SDS is not subject to this mandatory rule as it is not a financial firm but adopted the senior independent director system in October 2023 to strengthen BOD independence and governance transparency and appointed Hyun-Han Shin as the senior independent director. The senior independent director may convene and hold meetings and gatherings of independent directors and facilitate communication between the BOD chair, management members and independent directors.
+
+INTRODUCTION
+
+SUSTAINABILITY MANAGEMENT
+
+ENVIRONMENTAL SOCIAL GOVERNANCE

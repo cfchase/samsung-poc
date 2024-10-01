@@ -1,0 +1,11 @@
+Samsung SDS has been devoted to creating an organizational culture that encourages diversity and inclusion. In 2019, we applied career level integration and horizontal titles for an organizational culture of mutual respect, and in 2022, we added DEI-related questions to the Samsung Culture Index (SCI) survey. We continue to conduct campaigns and activities to enhance employees' sense of belonging in the organization. In addition, as we welcome more employees with diverse backgrounds around the world along with the growth of our overseas business, we recognize the need for programs and activities to manage DEI issues more systematically.
+
+## **Performance and Next Steps**
+
+In 2023, Samsung SDS set up the DEI Secretariat, an organization dedicated to diversity and inclusion issues at the company, and also developed a DEI Roadmap for step-bystep implementation of DEI activities. In 2024, we will carry out various programs such as campaigns and training to raise DEI awareness while identifying the diversity of our workforce and reviewing regulations and responses related to diversity in each country. In 2025, we will prepare programs to support minority groups and specify our diversity goals based on the characteristics of the company. Starting in 2026, business activities linked to DEI will also be carried out and diversity goals will be met as we build an organizational culture that reaches the level of advanced global players.
+
+## **Expand and Reinforce Safety and Health Management**
+
+The safety and health of our employees and suppliers is an essential and fundamental element in achieving sustainable growth and creating social value. As employee and supplier safety is one of the core values the company delivers, Samsung SDS will manage safety and health systematically and expand such practices to its overseas subsidiaries and suppliers. In particular, we have strengthened our independence and expertise in safety and health management by establishing a dedicated safety and health organization in each business unit led by the EHS Center and its head, the Chief Safety Officer (CSO).
+
+## **Performance and Next Steps**
